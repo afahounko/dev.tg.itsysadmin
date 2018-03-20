@@ -18,12 +18,12 @@ Il en ressort besoin urgent de trouver une solution afin de:
 ## NOTRE SOLUTION
 Pour effectivement arriver à palier aux problèmes mentionnés plus haut, nous proposons la mise en place d’une plateforme web pour 2, puis mobile (plus tard) qui sera constituée:
 
-1. D’une partie vitrine qui servira à présenter le “THink Thank”, c’est à dire son historique , sa philosophie, ses objectifs, ses valeurs et naturellement des informations de contact du comité exécutif.
-2. D’une partie “FORUM” qui sera en effet un outil de microblogging privé dédié uniquement aux adhérents du groupe. Elle comportera des fonctionnalités principales comme:
+1. D’une partie vitrine qui servira à présenter le `THink Thank`, c’est à dire son historique , sa philosophie, ses objectifs, ses valeurs et naturellement des informations de contact du comité exécutif.
+2. D’une partie `FORUM` qui sera en effet un outil de microblogging privé dédié uniquement aux adhérents du groupe. Elle comportera des fonctionnalités principales comme:
   - Créer un sujet de discussion, en tant que simple statut, article, lien, image ou vidéo directement sur le FrontEnd en temps réel avec une possibilité de catégorisation et d’étiquetage
   - Commenter un article ou un autre commentaire et y assigner une étiquette
   - Accéder directement à un thème ou sujet et y participer
-  - Toutes les actions précitées plus haut se feront en temps réel comme sur Twitter,Ou FaceBook
+  - Toutes les actions précitées plus haut se feront en temps réel comme sur Twitter, Ou FaceBook
   - Notification d’un nouveau commentaire, article, ou statut
   - Suggestion de balise en temps réel d’étiquettes basée sur les étiquettes utilisées précédemment.
 
