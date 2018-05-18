@@ -29,6 +29,10 @@ Pour effectivement arriver à palier aux problèmes mentionnés plus haut, nous 
 
 Cette plateforme évoluera avec de nouveaux besoins qui seront constatés dans le futur.
 
+## LA PLATEFORME
+La plateforme est acessible à l'adresse suivante: https://discourse.cloud-inspire.africa/
+
+
 
 > Par Koffi Eli KPONBLANOU
 
